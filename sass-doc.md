@@ -1,7 +1,6 @@
 # Pasos para ejecutar sass en la terminal con nodejs ya instalado
 
 [Documentacion oficial de sass](https://sass-lang.com/guide)
-[Documentacion oficial de sass](https://sass-lang.com/guide)
 
 **IMPORTANTE**
 Se recomienda hacer un respaldo de su archivo css antes del siguiente paso **4)**, incluso del proyecto
