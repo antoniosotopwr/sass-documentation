@@ -1,8 +1,8 @@
 # Pasos para ejecutar sass en la terminal con nodejs ya instalado
 
-[Documentacion oficial de sass](https://sass-lang.com/guide) 
+[Documentacion oficial de sass](https://sass-lang.com/guide)
 
-Pasos:
+**Pasos:**
 
 1) Ingresar el comando "npm install -g sass" en la terminal de vscode o npm
 2) Tener un archivo CSS
@@ -11,23 +11,26 @@ Pasos:
 **IMPORTANTE**
 Se recomienda hacer un respaldo de su archivo css antes del siguiente paso, incluso del proyecto
 
-4) Para compilar el codigo, se usa el siguiente comando (una vez se ejecute este comando se borrara el contenido de tu archivo css): "sass --watch ./scss/main.scss ./css/style.css"
+4)Para compilar el codigo, se usa el siguiente comando:"sass --watch ./scss/main.scss ./css/style.css" (una vez se ejecute este comando se borrara el contenido de tu archivo css).
 
 > Basicamente le dices de que archivo sass quieres que se tomen los estilos y a que archivo css los debe mandar.
 Sintactimante significa sass --watch ".scss origen" ".css destino"
 
-5) para dejar de trabajar con sass introducimos el comando "ctrl + c"
+5)Para dejar de trabajar con sass introducimos el comando "ctrl + c"
 
-6) Si queremos trabajar con sass de nuevo ingresamos de nuevo el comando del paso 4
+6)Si queremos trabajar con sass de nuevo ingresamos de nuevo el comando del paso 4
 
 ## Nesting
+
 Lo usamos para saber que los estilos solo corresponden a ese solo bloque.
 
-## Ampersand & 
+## Ampersand &
+
 Se usa para volver a llamar al selector padre sin tener que escribirlo manualmente.
 Tambien usa nesting.
 
-## Variables 
+## Variables
+
 Nos ayuda a facilitar la modificacion en el codigo, solo modificamos el valor de la variable en un solo lugar.
 
 --- 
