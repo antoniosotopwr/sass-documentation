@@ -4,21 +4,21 @@
 
 **Pasos:**
 
-1) Ingresar el comando "npm install -g sass" en la terminal de vscode o npm
-2) Tener un archivo CSS
-3) Crear una carpeta con el nombre "scss" y dentro un archivo .scss
+**1)** Ingresar el comando "npm install -g sass" en la terminal de vscode o npm
+**2)** Tener un archivo CSS
+**3)** Crear una carpeta con el nombre "scss" y dentro un archivo .scss
 
 **IMPORTANTE**
 Se recomienda hacer un respaldo de su archivo css antes del siguiente paso, incluso del proyecto
 
-4)Para compilar el codigo, se usa el siguiente comando:"sass --watch ./scss/main.scss ./css/style.css" (una vez se ejecute este comando se borrara el contenido de tu archivo css).
+**4)**Para compilar el codigo, se usa el siguiente comando:"sass --watch ./scss/main.scss ./css/style.css" (una vez se ejecute este comando se borrara el contenido de tu archivo css).
 
 > Basicamente le dices de que archivo sass quieres que se tomen los estilos y a que archivo css los debe mandar.
 Sintactimante significa sass --watch ".scss origen" ".css destino"
 
-5)Para dejar de trabajar con sass introducimos el comando "ctrl + c"
+**5)**Para dejar de trabajar con sass introducimos el comando "ctrl + c"
 
-6)Si queremos trabajar con sass de nuevo ingresamos de nuevo el comando del paso 4
+**6)**Si queremos trabajar con sass de nuevo ingresamos de nuevo el comando del paso 4
 
 ## Nesting
 
