@@ -21,16 +21,20 @@ Sintactimante significa sass --watch ".scss origen" ".css destino"
 
 Lo usamos para saber que los estilos solo corresponden a ese solo bloque.
 
-![Nesting example](./img/1anidacion.PNG)
+![NestingImg](./img/1anidacion.PNG)
 
 ## Ampersand &
 
 Se usa para volver a llamar al selector padre sin tener que escribirlo manualmente.
 Tambien usa nesting.
 
+![AmpersandImg](./img/2ampersand.PNG)
+
 ## Variables
 
 Nos ayuda a facilitar la modificacion en el codigo, solo modificamos el valor de la variable en un solo lugar.
+
+![VariablesImg](./img/3variables.PNG)
 
 ---
 
