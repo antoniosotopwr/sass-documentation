@@ -3,7 +3,7 @@
 [Documentacion oficial de sass](https://sass-lang.com/guide)
 
 **IMPORTANTE**
-Se recomienda hacer un respaldo de su archivo css antes del siguiente paso **4)**, incluso del proyecto
+Se recomienda hacer un respaldo de su archivo css antes del paso **4)**, incluso del proyecto.
 
 **Pasos:**
 
