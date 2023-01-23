@@ -36,6 +36,13 @@ Nos ayuda a facilitar la modificacion en el codigo, solo modificamos el valor de
 
 ![VariablesImg](./img/3variables.PNG)
 
+```sass
+$color-primario:aqua; 
+h1{
+    color: $color-primario;
+}
+```
+
 ---
 
 **Nota:** Si se llega a tener un problema con sass usando node y npm, se puede instalar la extension de vscode
